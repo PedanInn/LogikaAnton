@@ -1,0 +1,104 @@
+body {
+    font-family: sans-serif;
+    background:white;
+}
+header{
+    background-color:azure;
+    border-left: 20px double rgb(255, 255, 255);
+    padding-bottom: 20px;
+    margin-bottom: 0px;
+    background-image: url(https://forum.rudtp.ru/attachments/linii-01-png.88466/);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+header h1{
+    text-align: left;
+    padding-top: 100px;
+    margin-right: 200px;
+    margin-left: 10px;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 36px;
+    color:black;
+    }
+h1 img{
+    margin-left: 60%;
+    
+}
+nav{
+    text-align: left;
+}
+nav a{
+text-decoration: none;
+padding: 20px;
+margin-left: 10px;
+color: rgb(36, 34, 32);
+font-weight: bold;
+}
+main{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Umbrella_Corporation_logo.svg/1200px-Umbrella_Corporation_logo.svg.png);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    margin-left: 30px;
+}
+main h2{
+    margin-right: 200px;
+    padding-top: 100px;
+    margin-bottom: 40px;
+    color: rgb(36, 34, 32);
+    margin-left: 30px;
+}
+main h1{
+    margin-left: 30px; 
+    padding-top: 10px; 
+    font-size: 42px;
+}
+main h3{
+    margin-left: 30px; 
+    color: white;
+    font-size: 28px;
+    font-weight: 100;
+}
+li{
+    text-align: left;
+    margin-bottom: 5px;
+}
+details{
+    margin-left: 30px;
+}
+details p{
+    color:black);
+    font-weight: bold;
+    background-color: white;
+}
+main img{
+    margin-top: 50px;
+    filter: invert(1);
+}
+footer{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+    text-align:center;
+    font-size: 14px;
+   border: 15px double;
+}
+footer a{
+    text-decoration: none;
+    color: red;
+}
+#mark{
+    color: black;
+    margin-right: 300px;
+  }
+  .im{
+    margin-left: 10px; 
+    padding-bottom: 10px;
+ }
+
+
+
+
+
